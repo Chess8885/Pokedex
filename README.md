@@ -1,5 +1,5 @@
 # Pokedex
-Simple react application
+Simple React.js with TypeScript web application
 
 # Usage :
 1. git clone https://github.com/toto42/Pokedex.git
