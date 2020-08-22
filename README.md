@@ -2,10 +2,10 @@
 Simple react application
 
 # Usage :
-git clone https://github.com/toto42/Pokedex.git
-cd into the repo
-npm install
-npm start
+1. git clone https://github.com/toto42/Pokedex.git
+2. cd into the repo
+3. npm install
+4. npm start
 
 ![Optional Text](presentation.png)
 
